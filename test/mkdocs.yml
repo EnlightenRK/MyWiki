@@ -1,7 +1,7 @@
 site_name: testMkdocs
 nav:
-- lishuoboy-markdown.md
+- MarkDown文件教程.md
 - 增加测试页面.md
 - 二级目录测试:
     - 二级目录测试/test1.md
-    - 增加测试页面.md
+    - 二级目录测试/test1.md
