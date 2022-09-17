@@ -2,8 +2,9 @@ site_name: Wiki测试
 nav:
 - MarkDown文件教程.md
 - 增加测试页面.md
+- 图片测试.md
 - 二级目录测试:
     - 二级目录测试/test1.md
     - 二级目录测试/test2.md
 theme:
-    name:  readthedocs
+    name:  material
