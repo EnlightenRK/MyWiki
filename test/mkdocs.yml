@@ -1,4 +1,6 @@
 site_name: Wiki测试
+theme:
+    name:  readthedocs
 nav:
 - MarkDown文件教程.md
 - 增加测试页面.md
