@@ -29,13 +29,15 @@ Markdown 是一种轻量级的标记语言，本质是html。不同应用对md�
 ###### 六级标题
 
 一级标题
+
+
 ==
 二级标题
 --
 
-## 1.2 标题编号(扩展语法)(IDEA、github、码云、Typora、CSDN 不支持)
+## 1.2  标题编号(扩展语法)(IDEA、github、码云、Typora、CSDN 不支持)
 
-### 带编号的标题{#custom-id}
+###  带编号的标题{#custom-id}
 
 [链接到带编号的标题](#custom-id)
 
